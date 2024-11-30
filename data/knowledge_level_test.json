@@ -1,0 +1,194 @@
+{
+    "en": {
+        "B": {
+            "Choose the correct answer": [
+                "If it rains tomorrow, I _ my umbrella.",
+                {
+                    "a": "take",
+                    "b": "will take",
+                    "c": "taking"
+                },
+                "b"
+            ],
+            "What does 'to succeed' mean?": [
+                null,
+                {
+                    "a": "To fail",
+                    "b": "To achieve what you want",
+                    "c": "To try"
+                },
+                "b"
+            ],
+            "Complete the sentence": [
+                "I wish I _ more time to travel",
+                {
+                    "a": "have",
+                    "b": "had",
+                    "c": "will have"
+                },
+                "b"
+            ],
+            "Which sentence is correct?": [
+                null,
+                {
+                    "a": "She is more taller than her brother",
+                    "b": "She is taller than her brother",
+                    "c": "She is the taller than her brother"
+                },
+                "b"
+            ],
+            "Choose the correct word": [
+                "He was very tired, so he decided to take a _ after work.",
+                {
+                    "a": "nap",
+                    "b": "dinner",
+                    "c": "trip"
+                },
+                "a"
+            ]
+        },
+        "C": {
+            "Choose the word that best fits the sentence": [
+                "The committee reached a _ decision after hours of discussion",
+                {
+                    "a": "unanimous",
+                    "b": "unison",
+                    "c": "unity"
+                },
+                "a"
+            ],
+            "Which sentence is the most formal": [
+                null,
+                {
+                    "a": "Can you help me with this?",
+                    "b": "Would you be able to assist me with this?",
+                    "c": "Help me with this."
+                },
+                "b"
+            ],
+            "Fill in the blank": [
+                "The research aims to _ the correlation between diet and health",
+                {
+                    "a": "determine",
+                    "b": "make",
+                    "c": "set"
+                },
+                "a"
+            ],
+            "Choose the best expression": [
+                "He was _ to hear the news about his promotion",
+                {
+                    "a": "elated",
+                    "b": "boring",
+                    "c": "annoy"
+                },
+                "a"
+            ],
+            "Identify the phrase that best describes a 'catch-22' situation": [
+                null,
+                {
+                    "a": "A situation with no good solution",
+                    "b": "A straightforward situation",
+                    "c": "A fun challenge"
+                },
+                "a"
+            ]
+        }
+    },
+    "es": {
+        "B": {
+            "¿Cuál es la palabra correcta para 'book'?": [
+                null,
+                {
+                    "a": "libro",
+                    "b": "puerta",
+                    "c": "mesa"
+                },
+                "a"
+            ],
+            "¿Cómo se dice 'I am happy' en español?": [
+                null,
+                {
+                    "a": "yo soy feliz",
+                    "b": "yo tengo felicidad",
+                    "c": "yo estoy contento"
+                },
+                "a"
+            ],
+            "¿Cuál es el plural correcto de 'casa'?": [
+                null,
+                {
+                    "a": "casas",
+                    "b": "casoes",
+                    "c": "casis"
+                },
+                "a"
+            ],
+            "¿Qué significa '¿Cómo estás?'?": [
+                null,
+                {
+                    "a": "qué hora es",
+                    "b": "cómo te llamas",
+                    "c": "cómo te sientes"
+                },
+                "c"
+            ],
+            "¿Cuál es el pasado de 'hablar'?": [
+                null,
+                {
+                    "a": "hablé",
+                    "b": "hablando",
+                    "c": "habla"
+                },
+                "a"
+            ]
+        },
+        "C": {
+            "¿Cuál es el subjuntivo correcto de 'esperar que él venga'?": [
+                null,
+                {
+                    "a": "espero que él viene",
+                    "b": "espero que él venga",
+                    "c": "espero que él viniera"
+                },
+                "b"
+            ],
+            "Identifica la expresión idiomática correcta": [
+                null,
+                {
+                    "a": "tener la sartén por el mango",
+                    "b": "tener la cuchara por el plato",
+                    "c": "tener el tenedor por la olla"
+                },
+                "a"
+            ],
+            "¿Cuál es el condicional perfecto de 'yo habría estudiado'?": [
+                null,
+                {
+                    "a": "yo estudiara",
+                    "b": "yo había estudiado",
+                    "c": "yo habría estudiado"
+                },
+                "c"
+            ],
+            "Elige la frase con uso correcto de preposiciones": [
+                null,
+                {
+                    "a": "estoy de acuerdo contigo",
+                    "b": "estoy en acuerdo contigo",
+                    "c": "estoy a acuerdo contigo"
+                },
+                "a"
+            ],
+            "Identifica el significado de 'estar al caer'": [
+                null,
+                {
+                    "a": "estar muy lejos",
+                    "b": "estar a punto de suceder",
+                    "c": "estar completamente seguro"
+                },
+                "b"
+            ]
+        }
+    }
+}

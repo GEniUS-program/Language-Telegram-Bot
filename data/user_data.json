@@ -1,0 +1,31 @@
+[
+    {
+        "chat_id": "integer, representing a specific chat_id",
+        "languages": "['en', 'es'] english or spanish or both, list object",
+        "level": "['A, B or C', 'A, B or C'] - a list object, containing levels for english and spanish respectively",
+        "case_preference": "a users reasoning to learn a new language, e.g. 'Work' or 'School' - a string object",
+        "rating": "an integer object, represent users rating of language knowledge"
+    },
+    {
+        "chat_id": 1769130378,
+        "languages": [
+            "en",
+            " es"
+        ],
+        "level": [
+            "B",
+            "A"
+        ]
+    },
+    {
+        "chat_id": 13124124,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "level": [
+            "A",
+            "B"
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+{
+    "en": [
+        {
+            "_ Asia": "-",
+            "_ Europe": "-",
+            "_ Gobi Desert": "the",
+            "_ Rocky Mountains": "the",
+            "_ Metropolitan Museum of Art": "the",
+            "_ Moon": "the",
+            "_ Hudson River": "the",
+            "_ Middle East": "the",
+            "_ Harvard University": "-",
+            "_ University of London": "the",
+            "_ Regent Street": "-",
+            "_ Atlantic Ocean": "the",
+            "_ Birmingham Airport": "-",
+            "_ Florida": "-"
+        },
+        {
+            "He can speak _ English nor German": "neither",
+            "I want to go to Italy or France on my holiday. - If you can't decide, go to _ countries": "both",
+            "This cake is too sweet. - Yes, because it contains _ sugar and honey": "both",
+            "She has 2 cats but she doesn't care about _ of them": "either",
+            "I heard Robert and James are scientists. - That's correct. They _ study weather": "both",
+            "The man was _ Mexican or Spanish. I couldn't tell.": "either",
+            "You can _ leave now or stay until tomorrow. It's up to you.": "either",
+            "Henry is lazy. He _ makes his bed nor helps his mum about the house": "neither"
+        },
+        {
+            "_ is a sister": "she",
+            "_ is a tiger": "it",
+            "_ is a brother": "he",
+            "_ is a cat": "it",
+            "_ is a uncle": "he",
+            "_ is a grandmother": "she",
+            "_ is a house": "it",
+            "_ is a grandfather": "he",
+            "_ is a plane": "it",
+            "_ is a dog": "it"
+        },
+        {
+            "_ does the film start? - At 9pm.": "when",
+            "_ is the book? - It's on the table.": "where",
+            "_ do you do? - I'm an artist.": "what",
+            "_ do you do on the weekends? - I play golf.": "what",
+            "_ do you do you homework? - In my room.": "where",
+            "_ does Kate have lunch? - At school.": "where",
+            "_ is Molly going? - To the office.": "where",
+            "_ is the meeting? - On Monday.": "when",
+            "_ are you reading? - 'Harry Potter'.": "what"
+        }
+    ],
+    "es": [
+        {
+            "Se burlaron de ella _ ser tan tonta. No creo que regrese otra vez.": "por",
+            "Siento cariño _ él, aunque sea una persona tan difícil.": "por",
+            "_ mí puedes irte. Ya no te necesito más.": "por",
+            "Cuando el turista llegó a Madrid cambió dólares _ euros para pagar el taxi.": "por",
+            "Por trabajar aquí no vas a ganar más, por eso, es mejor que empieces a buscar otro empleo _ ganar más dinero. ": "para",
+            "En esta tienda el tomate se vende sólo _ kilo.": "por",
+            "_ ser un niño tan pequeño es muy inteligente, ya sabe leer.": "para",
+            "Pedro viajó _ Centroamérica por 6 días para ir México.": "por",
+            "María vive _ el parque.": "por",
+            "La carta es _ Carlos, así que no la abras.": "para"
+        },
+        {
+            "Julio es simpático, pero su hermano _ muy antipático.": "es",
+            "Después de la hora de aeróbic siempre _ cansadas.": "estamos",
+            "¿Cómo estás tú? Hoy no estoy bien, _ un poco cansada y creo que estoy enferma.": "estoy",
+            "Miguel está muy contento porque sus notas de los exámenes _ muy buenas.": "son",
+            "La falda negra es cara porque _ de lana.": "es",
+            "Penélope Cruz es actriz, es española y ahora está en California porque quiere _ famosa.": "ser",
+            "Mi vestido favorito es rojo y es muy elegante, pero _ sucio.": "está",
+            "Mandy es delgada y siempre _ en forma porque hace mucho deporte.": "está",
+            "Mi casa está cerca de la playa y es muy bonita, pero _ un poco pequeña.": "es",
+            "Kary _ muy nerviosa pues mañana tiene un examen que es muy importante.": "está"
+        }
+    ]
+}
