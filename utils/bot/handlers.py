@@ -244,8 +244,8 @@ def redact_profile_handler(call: telebot.types.CallbackQuery, bot: telebot.TeleB
 def save_profile(message: telebot.types.Message, bot: telebot.TeleBot, call: telebot.types.CallbackQuery):
     ud.open_()
     ud.log.write("Save profile handler triggered\n")
-    ud.update(message.chat.id, languages=[m.split(",")[0] for m in message.text.split(
-        ";")], level=[m.split(", ")[1] for m in message.text.split("; ")])
+    ud.update(message.chat.id, languages=[m.split(", ")[0] for m in message.text.split(
+        "; ")], level=[m.split(", ")[1] for m in message.text.split("; ")])
     bot.edit_message_text("Профиль успешно сохранен",
                           message.chat.id, call.message.id, reply_markup=exit_to_main_markup)
     ud.log.close()
